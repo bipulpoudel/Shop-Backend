@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Shop:FG3plDUbGOfZaMAh@shop.s5g3b.mongodb.net/shop?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
